@@ -1,0 +1,1 @@
+2024-01-21 16:11:27 - SUCESSO - Arquivo: exemplo.txt - Arquivo importado com sucesso. Linhas importadas: 1
