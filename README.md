@@ -13,3 +13,5 @@ Principais funcionalidades incluem:
 - Interface gráfica com elementos para entrada de dados, localização de arquivos, exibição de logs e execução do processo de importação.
 
 O código destaca-se pela interação com o usuário por meio de uma interface gráfica intuitiva e pela realização de operações de importação de dados no contexto de um banco de dados Oracle.
+
+![image](https://github.com/xgustavohf/Import-Funcionarios/assets/56177561/c45b23c5-79c7-4837-80ad-6da6aee5a169)
